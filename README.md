@@ -4,7 +4,7 @@
 This internship runs from **20th July 2025 to 20th August 2025** and focuses on building real-time Java-based projects and strengthening core programming skills.
 
 ## 📌 Internship Details
-- **Organization:** CodSoft (MSME Registered)
+- **Organization:** CodSoft 
 - **Internship Type:** Virtual
 - **Domain:** Java Programming
 - **Duration:** 4 Weeks
