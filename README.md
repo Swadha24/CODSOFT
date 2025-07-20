@@ -15,4 +15,4 @@ This internship runs from **20th July 2025 to 20th August 2025** and focuses on 
 - Java (JDK 17+)
 - IntelliJ IDEA / VS Code
 - Git & GitHub
-- OOPs Concepts, File Handling, Collections, etc.
+
